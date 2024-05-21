@@ -17,6 +17,7 @@ M.treesitter = {
     "rust",
     "svelte",
     "toml",
+    "templ",
   },
   indent = {
     enable = true,
@@ -38,6 +39,7 @@ M.mason = {
     "typescript-language-server",
     "deno",
     "prettier",
+    "templ",
 
     -- c/cpp stuff
     "clangd",

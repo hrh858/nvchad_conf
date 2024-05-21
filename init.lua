@@ -8,3 +8,4 @@
 
 vim.opt.relativenumber = true
 vim.opt.wrap = false
+vim.filetype.add({ extension = { templ = "templ" } })
